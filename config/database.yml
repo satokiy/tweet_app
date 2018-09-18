@@ -36,5 +36,4 @@ production:
   hostname: ec2-54-225-241-25.compute-1.amazonaws.com
   port: 5432
   database: dfku9g1jbtc5e7
-  password: d8462fb8359fdef04a01d8161185ab47bc04aa5b0b73
-99df9dc89e6be880eb1d
+  password: d8462fb8359fdef04a01d8161185ab47bc04aa5b0b7399df9dc89e6be880eb1d
